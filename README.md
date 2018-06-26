@@ -1,2 +1,3 @@
-# Front-End
-Front-End projects developed during the Udacity Web Development Nanodegree
+# Front-End - Mockups
+
+Mockup project developed during the Udacity Web Development Nanodegree
